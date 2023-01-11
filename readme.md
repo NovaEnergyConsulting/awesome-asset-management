@@ -60,12 +60,7 @@ Technical bodies, industry groups, institutions and other associations.
 ### Videos
 
 - [The Asset Mgt journey - YouTube](https://www.youtube.com/watch?v=DDEJvI8SEEg)
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/DDEJvI8SEEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 - [The Elements of Strategic Asset Mgt overview - YouTube](https://www.youtube.com/watch?v=_emDnYaVo0g)
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/_emDnYaVo0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-- 
 
 
 ## Contribute
